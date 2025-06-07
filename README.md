@@ -23,3 +23,6 @@ To ensure timely notifications, I set up **CloudWatch Alarms**. These alarms wer
 
 This monitoring setup helps in identifying performance bottlenecks, reducing downtime, and maintaining system reliability. The task not only enhanced my understanding of AWS monitoring services but also demonstrated how cloud observability tools can be integrated into production environments to ensure operational excellence.
 
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/e4984155-613b-47a8-aee1-883fa71406ba)
